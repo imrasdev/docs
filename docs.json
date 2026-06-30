@@ -83,5 +83,8 @@
       "light": "#ffffff",
       "dark": "#000000"
     }
+  },
+  "appearance": {
+    "strict": true
   }
 }
