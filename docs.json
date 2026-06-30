@@ -3,9 +3,9 @@
   "theme": "mint",
   "name": "Mintlify Starter Kit",
   "colors": {
-    "primary": "#040505",
-    "light": "#050505",
-    "dark": "#0A0A0A"
+    "primary": "#ffffff",
+    "light": "#000000",
+    "dark": "#ffffff"
   },
   "favicon": "/favicon.svg",
   "navigation": {
