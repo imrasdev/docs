@@ -4,7 +4,6 @@
   "name": "Mintlify Starter Kit",
   "colors": {
     "primary": "#ffffff",
-    "light": "#000000",
     "dark": "#ffffff"
   },
   "favicon": "/favicon.svg",
@@ -81,7 +80,7 @@
   "background": {
     "color": {
       "light": "#ffffff",
-      "dark": "#000000"
+      "dark": "#030303"
     }
   },
   "appearance": {
